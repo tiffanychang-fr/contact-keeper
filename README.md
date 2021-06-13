@@ -1,8 +1,7 @@
 # Contact-Keeper
 This is a clone project of the Full stack MERN contact manager with React hooks, context & JWT authentication, credit to @bradtraversy
 ```bash
-Deploy on Heroku, check out the link :
-https://quiet-atoll-22965.herokuapp.com/login
+Deploy on Heroku, check out the [link](https://quiet-atoll-22965.herokuapp.com/login)
 ```
 
 ### Run Server
